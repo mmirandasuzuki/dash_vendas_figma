@@ -29,7 +29,7 @@ O dashboard é composto por **três páginas principais**, organizadas da seguin
 
 > Exemplo de uma das páginas do painel:
 
-![Dashboard - Figma](./print-dashboard.png)
+![Dashboard - Figma](./pg1.png)
 
 ---
 
