@@ -27,17 +27,25 @@ O dashboard é composto por **três páginas principais**, organizadas da seguin
 
 ## 🖼️ Print do Dashboard
 
-> Exemplo de uma das páginas do painel:
+>Vendas Geral:
 
 ![Dashboard - Figma](./pg1.png)
 
+
+>Vendas por País:
+
+![Dashboard - Figma](./pag2.png)
+
+>Performance por Equipe:
+
+![Dashboard - Figma](./pg3.png)
 ---
 
 ## 🔗 Visualize o painel completo
 
 Você pode acessar o dashboard no Figma através do link abaixo:
 
-👉 [Ver dashboard no Figma](https://www.figma.com/file/SEU-LINK-AQUI)
+👉 [Ver dashboard]([https://www.figma.com/file/SEU-LINK-AQUI](https://app.powerbi.com/view?r=eyJrIjoiMTRmYzQ2OGEtZGY3Zi00NzdkLWJhYzQtNjg1MmQxMjZhY2YwIiwidCI6ImNkNWU2ZDIzLWNiOTktNDE4OS04OGFiLTFhOTAyMWEwYzQ1MSJ9))
 
 ---
 
