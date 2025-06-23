@@ -45,7 +45,7 @@ O dashboard é composto por **três páginas principais**, organizadas da seguin
 
 Você pode acessar o dashboard através do link abaixo:
 
-👉 [Ver dashboard]((https://app.powerbi.com/view?r=eyJrIjoiMTRmYzQ2OGEtZGY3Zi00NzdkLWJhYzQtNjg1MmQxMjZhY2YwIiwidCI6ImNkNWU2ZDIzLWNiOTktNDE4OS04OGFiLTFhOTAyMWEwYzQ1MSJ9)
+👉 [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTRmYzQ2OGEtZGY3Zi00NzdkLWJhYzQtNjg1MmQxMjZhY2YwIiwidCI6ImNkNWU2ZDIzLWNiOTktNDE4OS04OGFiLTFhOTAyMWEwYzQ1MSJ9)
 
 ---
 
